@@ -1,4 +1,4 @@
-<img width="4080" height="1020" alt="RBC RADIO Internal Directory" src="https://github.com/user-attachments/assets/2fff8b70-3ed4-4375-b55e-c03624ad9b91" />
+# RBC RADIO - Internal Phone System Directory
 
 ## IVR's
 **984-0000** - RBC Radio dial in IVR
